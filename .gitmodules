@@ -6,4 +6,4 @@
 	url = https://github.com/mcmonkeyprojects/mcmonkeyDiscordBotBase
 [submodule "SharpDenizenTools"]
 	path = SharpDenizenTools
-	url = https://github.com/DenizenScript/SharpDenizenTools
+	url = https://github.com/AuroraInteractive/SharpDenizenTools
